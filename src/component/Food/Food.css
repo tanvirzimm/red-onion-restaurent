@@ -1,0 +1,12 @@
+
+.category{
+list-style: none;
+}
+
+.custom-style{
+    min-height: 1000px;
+}
+
+li{
+    margin:20px 10px;
+}

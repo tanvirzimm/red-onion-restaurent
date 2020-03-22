@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+}
+
+.foodItem{
+    
+    padding: 10px;
+    border-radius:5px;
+    min-height:450px;
+    text-align: center;
+}
+.foodItem:hover{
+    box-shadow:1px 1px 8px lightgray;
+}
+.foodItem p{
+    color:gray;
+    margin-bottom: 30px;
+}
+
+.foodItem h4{
+        margin-top: 20px;
+}

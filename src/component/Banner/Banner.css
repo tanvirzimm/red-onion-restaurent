@@ -1,0 +1,9 @@
+.bannar{
+    background-image: url('../../images/bannerbackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:500px;
+    width:100%;
+
+}
