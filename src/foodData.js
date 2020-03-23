@@ -55,13 +55,115 @@ const foodData = [
     },
     {
         id:7,
-        name:'mangsho',
+        name:'Chiken tikka',
         shortDetails:'How we dream about our future',
         details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
-        price:30,
+        price:70,
         category:'lunch',
-        image:'https://i.ibb.co/cFMCbB6/breakfast5.png'
-    }
+        image:'https://i.ibb.co/c8f2zzt/lunch1.png'
+    },
+    {
+        id:8,
+        name:'Tanduri chiken',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:67,
+        category:'lunch',
+        image:'https://i.ibb.co/xF72gpT/lunch2.png'
+    },
+    {
+        id:9,
+        name:'Hajir biriani',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:97,
+        category:'lunch',
+        image:'https://i.ibb.co/w6pQ1w7/lunch3.png'
+    },
+    {
+        id:10,
+        name:'Tehari',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:107,
+        category:'lunch',
+        image:'https://i.ibb.co/F3LBBNZ/lunch4.png'
+    },
+    {
+        id:11,
+        name:'Vegitable rice',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:87,
+        category:'lunch',
+        image:'https://i.ibb.co/Wnr9gJ8/lunch5.png'
+    },
+    {
+        id:12,
+        name:'Fried Rice',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:44,
+        category:'lunch',
+        image:'https://i.ibb.co/L6SXML2/lunch6.png'
+    },
+    {
+        id:13,
+        name:'Mutton kacci',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:74,
+        category:'dinner',
+        image:'https://i.ibb.co/1RTw0Rp/dinner1.png'
+    },
+    {
+        id:14,
+        name:'Nan Ruti',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:14,
+        category:'dinner',
+        image:'https://i.ibb.co/sV2NrRn/dinner2.png'
+    },
+    {
+        id:15,
+        name:'Fish fry',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:33,
+        category:'dinner',
+        image:'https://i.ibb.co/HgF3Xy2/dinner3.png'
+    },
+    {
+        id:16,
+        name:'Chiken fry',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:53,
+        category:'dinner',
+        image:'https://i.ibb.co/4pWvNKh/dinner4.png'
+    },
+    {
+        id:17,
+        name:'Fried fish',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:58,
+        category:'dinner',
+        image:'https://i.ibb.co/vwTxwSL/dinner5.png'
+    },
+    {
+        id:18,
+        name:'Fried vegitable',
+        shortDetails:'How we dream about our future',
+        details:'One of the best food over here.you can try out this.Amazing foods are here especially for family and friends.we are waiting for your order.we hope you will order.',
+        price:58,
+        category:'dinner',
+        image:'https://i.ibb.co/Y7hBsC3/dinner6.png'
+    },
+
+
+
 ];
 
 

@@ -1,0 +1,28 @@
+.form-logo{
+    width: 150px;
+    margin:20px auto;
+}
+
+.form-logo img {
+    width:100%;
+}
+
+.form input{
+    width:300px;
+    padding: 5px;
+    display: block;
+    background-color: #F5F5F5;
+    margin:5px 0;
+}
+
+
+.form{
+    width:300px;
+    margin:0 auto;
+}
+
+
+.form span{
+    color:red;
+}
+
